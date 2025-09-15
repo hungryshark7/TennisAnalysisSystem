@@ -1,10 +1,14 @@
 # Ignore everything
 *
 
-# But keep these
+# Keep these
 !.gitignore
 !main.py
 
-# Keep utils folder and everything inside it
+# Keep utils and everything inside
 !utils/
 !utils/**
+
+# Keep trackers and everything inside
+!trackers/
+!trackers/**
