@@ -4,4 +4,4 @@
 # But not these files...
 !.gitignore
 !main.py
-!utils/
+!utils/*
