@@ -12,3 +12,7 @@
 # Keep trackers and everything inside
 !trackers/
 !trackers/**
+
+# Keep court_line_detector and everything inside
+!court_line_detector/
+!court_line_detector/**
